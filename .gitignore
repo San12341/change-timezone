@@ -1,0 +1,10 @@
+# 构建产物
+/dist/
+*.syso
+
+# Go 测试/覆盖率输出
+*.test
+*.out
+
+# macOS
+.DS_Store
